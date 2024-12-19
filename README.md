@@ -69,3 +69,7 @@ Data Wrangling: Wrangle the data and transform into a format needed for the anal
 Analysis & Visualization: Analyze data, define KPIs, and visualize it in Power BI
 
 Report Presentation: Prepare a presentation slide to present analysis findings
+
+## Dashboard & Findings
+After importing the csv files into power query. I merged all the tables into a single and extract only the page columns for each tables. After then I converted the null values on all columns to zero and values of the pages columns to 1. I loaded only the merged table into power BI and carry out some analysis to understand the data better.
+![Page Trend](https://github.com/adetonayusuf/salefunnelanalysis/blob/main/Page%20Trend.png])
