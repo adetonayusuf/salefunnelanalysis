@@ -76,3 +76,12 @@ After importing the csv files into power query. I merged all the tables into a s
 
 ![Page Trend](https://github.com/adetonayusuf/salefunnelanalysis/blob/main/Page%20Trend.png)
 
+The above dashboard shows the conversion rate for each page on the company's website and trend on a daily basis.
+
+The funnel chart below shows the conversion rate by gender and device. It shows that majority of visitor on the company's site use thier desktop compare to phone. There's equal distribution between the gender.
+
+![Funnel Chart](https://github.com/adetonayusuf/salefunnelanalysis/blob/main/Funnel%20Chart%20for%20Device%20%26%20Sex.png)
+
+The dashboard shows the general overview of visitor activities on each page
+
+![Funnel Chart](https://github.com/adetonayusuf/salefunnelanalysis/blob/main/Conversion%20Monitoring%20Dashboard.png)
