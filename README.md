@@ -91,9 +91,13 @@ Base on the above dashboards below are the insight and recommendations
 ## Insights
 
 Given the analysis of LearnX's application funnel and the observed conversion rates, the focus should initially be on optimizing and improving the Signup Page. Here's why:
-Significant Drop-off Point: The transition from the course exploration page to the signup page sees a notable reduction in conversion rate (from 71.8% to 43.4%). The decline from signup to preview (down to 13.1%) indicates that users are either losing interest or encountering obstacles that prevent them from moving forward, which makes it a key area for optimization to boost overall conversion rates. 
 
-Potential for Immediate Impact: Addressing issues at the signup stage can have an immediate and cascading positive effect on the subsequent stages of the funnel. Improving the signup process can lead to more users entering the funnel's later stages, thereby increasing overall conversion rates.
+1. Significant Drop-off Point: The transition from the course exploration page to the signup page sees a notable reduction in conversion rate (from 71.8% to 43.4%). The 
+   decline from signup to preview (down to 13.1%) indicates that users are either losing interest or encountering obstacles that prevent them from moving forward, which 
+   makes it a key area for optimization to boost overall conversion rates. 
+
+2. Potential for Immediate Impact: Addressing issues at the signup stage can have an immediate and cascading positive effect on the subsequent stages of the funnel. 
+   Improving the signup process can lead to more users entering the funnel's later stages, thereby increasing overall conversion rates.
 
 ## Recommendation
 
