@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ed72152-ab46-4e37-8287-cccdfb7f4ead)# salefunnelanalysis
+# salefunnelanalysis
 
 ## Overview
 
