@@ -1,4 +1,4 @@
-# salefunnelanalysis
+# Sale Funnel Analysis
 
 ## Overview
 
